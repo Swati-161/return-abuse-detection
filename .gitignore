@@ -10,3 +10,7 @@ __pycache__/
 data/
 artifacts/*.pkl
 .DS_Store
+
+# Generated outputs
+outputs/*.parquet
+outputs/plots/*.png
