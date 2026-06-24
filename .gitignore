@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Heavy ML Artifacts / Data files
+data/
+artifacts/*.pkl
+.DS_Store
