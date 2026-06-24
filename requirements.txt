@@ -9,3 +9,6 @@ streamlit
 plotly
 joblib
 pyarrow
+torch
+torchvision
+torchaudio

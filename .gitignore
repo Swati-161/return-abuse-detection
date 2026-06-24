@@ -14,3 +14,23 @@ artifacts/*.pkl
 # Generated outputs
 outputs/*.parquet
 outputs/plots/*.png
+
+# Trained models
+outputs/models/*.joblib
+outputs/models/*.pt
+
+# Future model artifacts
+*.pkl
+*.pickle
+*.h5
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# Coverage/testing
+.coverage
+.pytest_cache/
