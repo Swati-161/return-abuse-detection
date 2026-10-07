@@ -177,18 +177,3 @@ python run_phase6.py
 ```
 
 The scripts generate intermediate datasets, trained models, evaluation results and plots inside the output directories.
-
-## Notes
-
-The abuse labels used in this project are simulated rather than real-world fraud labels. Therefore, the reported metrics should be interpreted as evaluation results on the simulated setting and not as estimates of real-world fraud detection performance.
-
-## Future Work
-
-Some possible extensions include:
-
-* Testing on real return-abuse data
-* Online/real-time risk scoring
-* Model monitoring and drift detection
-* More detailed cost-based policy optimization
-* Deployment as an API service
-* Integration with a production database and feature store
